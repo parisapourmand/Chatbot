@@ -15,3 +15,9 @@ venv.bak/
 pythonenv*
 
 __pycache__/
+
+models
+models/
+
+.DS_Store
+.DS_Store/

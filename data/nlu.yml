@@ -7,6 +7,10 @@ nlu:
     - I want to talk to a human.
     - Agent
     - I want to talk to an agent.
+    - آدم
+    - انسان
+    - ایجنت
+    - می‌خواهم با انسان حرف بزنم
 
 
 - intent: greet
