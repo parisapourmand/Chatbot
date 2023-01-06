@@ -1,0 +1,9 @@
+# handoff_hosts:
+#     human_agent:
+#       title: "Human Agent"
+#       url: "http://localhost:8000"
+#     ## you can add more handoff hosts to this list e.g.
+#     # moodbot:
+#     #   title: "MoodBot"
+#     #   url: "http://localhost:5007"
+    
