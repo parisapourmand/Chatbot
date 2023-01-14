@@ -15,6 +15,7 @@ nlu:
 
 - intent: greet
   examples: |
+    - سلام
     - hey
     - hello
     - hi
@@ -31,6 +32,7 @@ nlu:
 
 - intent: goodbye
   examples: |
+    -خداحافظ
     - cu
     - good by
     - cee you later
@@ -44,6 +46,7 @@ nlu:
 
 - intent: affirm
   examples: |
+    - بله
     - yes
     - y
     - indeed
@@ -80,6 +83,7 @@ nlu:
 
 - intent: mood_unhappy
   examples: |
+    - ناراحت 
     - my day was horrible
     - I am sad
     - I don't feel very well
@@ -101,3 +105,5 @@ nlu:
     - are you a human?
     - am I talking to a bot?
     - am I talking to a human?
+    - تو کی هستی؟
+    - کی هستی؟

@@ -13,14 +13,14 @@ intents:
 responses:
   utter_agent_handoff:
   - text: |
-      Moving you to an agent
+      در حال انتقال به پشتیبانی
       \agent
 
   utter_greet:
   - text: |
-      Hey! How are you?
+      سلام! چطور می‌تونم کمکتون کنم؟
     buttons:
-      - title: "I want an agent"
+      - title: "گفتگو با پشتیبان انسان"
         payload: "/agent_handoff"
 
   utter_cheer_up:
@@ -28,16 +28,16 @@ responses:
     image: "https://i.imgur.com/nGF1K8f.jpg"
 
   utter_did_that_help:
-  - text: "Did that help you?"
+  - text: "مشکل برطرف شد؟"
 
   utter_happy:
-  - text: "Great, carry on!"
+  - text: "خوبه"
 
   utter_goodbye:
-  - text: "Bye"
+  - text: "خداحافظ"
 
   utter_iamabot:
-  - text: "I am a bot, powered by Rasa."
+  - text: "من یک بات راه‌اندازی شده به کمک راسا هستم"
 
 session_config:
   session_expiration_time: 60
